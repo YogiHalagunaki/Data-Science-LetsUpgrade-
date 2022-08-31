@@ -1,3 +1,3 @@
 # Data-Science-LetsUpgrade-
-Assignment No 1
+Challenge No 1
 
